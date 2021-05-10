@@ -1,0 +1,19 @@
+{
+    "Scope": [
+        {
+            "Type": "REGIONAL",
+            "Policy": [
+                {
+                    "Name": "PrivateNonProdPolicy",
+                    "RateBasedPostValue": "400",
+                    "RateBasedGetValue": "200" 
+                },
+                {
+                    "Name": "NonProdPublicPolicy",
+                    "RateBasedPostValue": "500",
+                    "RateBasedGetValue": "300"  
+                }
+            ]
+        }
+    ]
+}
