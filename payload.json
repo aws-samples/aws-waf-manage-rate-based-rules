@@ -4,14 +4,14 @@
             "Type": "REGIONAL",
             "Policy": [
                 {
-                    "Name": "PrivateNonProdPolicy",
-                    "RateBasedPostValue": "400",
-                    "RateBasedGetValue": "200" 
+                    "Name": "<Policy Name>",
+                    "RateBasedPostValue": "<Rate limit>",
+                    "RateBasedGetValue": "<Rate limit>" 
                 },
                 {
-                    "Name": "NonProdPublicPolicy",
-                    "RateBasedPostValue": "500",
-                    "RateBasedGetValue": "300"  
+                    "Name": "<Policy Name>",
+                    "RateBasedPostValue": "<Rate limit>",
+                    "RateBasedGetValue": "<Rate limit>"  
                 }
             ]
         }
