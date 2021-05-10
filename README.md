@@ -21,6 +21,7 @@ This solution offers flexibility for Security Administrators to configure/modify
     a) Solution works only for WebACLS governed by AWS Firewall Manager
     b) Number of accounts managed by AWS Firewall Manager is less than 100.
     c) Solution works only for "REGIONAL" resources managed by AWS Firewall Manager and not "GLOBAL" resources
+    d) "POSTRule" will be the rule name for Post requests and "GetHeadRule" will be the rule name for Get requests.
 
 ## **Architecture**
 
